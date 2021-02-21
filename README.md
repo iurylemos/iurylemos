@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey 👋
+
+My name is Iury. I'm a Full Stack Developer, that has been working as a Front-end developer since 2018. 👨‍💻
+
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+. I'm graduated in the course Análise e Desenvolvimento de Sistemas 👨‍🎓
+. I'm 24 years old 👦
 
 <!--
 **iurylemos/iurylemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
