@@ -2,15 +2,16 @@
 
 *I'm a Full Stack Developer, that has been working as a developer since 2018. 👨‍💻*
 
-*I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.*
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - 🔭 I’m currently working on JavaScript
 - 🎓 I'm gratuated in the course Analyst and Development of System
 - 😄 I'm 24 years old 
+- 🌱 I’m currently learning about micro services
 
 **This is [my portfolio](https://iurylemos.github.io/)**
 
-**#React, #NodeJS, #ReactJS, #Angular, #NestJS, #NextJS**
+**#React, #NodeJS, #ReactJS, #Angular, #NestJS, #NextJS #Golang #JavaScript #TypeScript**
 
 <!--
 **iurylemos/iurylemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
