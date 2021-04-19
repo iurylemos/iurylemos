@@ -1,8 +1,6 @@
 ## Hello 👋
-*I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.*
-
-- 🌱 I’m currently learning about micro services
-- This is [my portfolio](https://iurylemos.github.io/)
+- I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
+- 🌱 I’m currently learning about micro services and Golang
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)
 
