@@ -4,7 +4,7 @@
 
 *I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on JavaScript
 - 🎓 I'm gratuated in the course Analyst and Development of System
