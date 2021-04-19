@@ -1,17 +1,10 @@
 ## Hello 👋
-
-*I'm a Full Stack Developer, that has been working as a developer since 2018. 👨‍💻*
-
 *I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)
-
-- 🔭 I’m currently working on JavaScript
-- 🎓 I'm gratuated in the course Analyst and Development of System
-- 😄 I'm 24 years old 
 - 🌱 I’m currently learning about micro services
+- This is [my portfolio](https://iurylemos.github.io/)
 
-**This is [my portfolio](https://iurylemos.github.io/)**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurylemos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
