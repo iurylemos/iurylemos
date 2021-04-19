@@ -2,7 +2,9 @@
 
 *I'm a Full Stack Developer, that has been working as a developer since 2018. 👨‍💻*
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+*I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on JavaScript
 - 🎓 I'm gratuated in the course Analyst and Development of System
