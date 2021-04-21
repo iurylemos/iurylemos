@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurylemos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurylemos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 😄 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 - 🌱 I’m currently learning about microservices and Golang
-- :nerd_face: I'm graduated at analysis of system
+- :nerd_face: I'm graduated in systems analysis and development 
 
 
 
