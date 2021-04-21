@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iurylemos&hide=contribs,prs&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iurylemos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
-- 🌱 I’m currently learning about microservices and Golang
-- :nerd_face: I'm graduated in systems analysis and development 
+### Abstract
+
+- 👨‍💻 Desenvolvedor de Software Pleno na **Lanlink Informática**.
+- 🌱 Estudante de tecnologia, sempre pronto para encarar novas mudanças.
+- 💙 Interesse: golang, dart, html, css, javaScript, React, Angular , ionic e nodejs.
 
 ## Skills :nerd_face:
 <p align="center">
