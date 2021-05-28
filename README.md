@@ -6,7 +6,7 @@
 
 - 👨‍💻 Software Developer at **Lanlink Informática**.
 - 🌱 Technology student, always ready to face changes.
-- 💙 Interest: Golang, Dart, html, css, javaScript, React, Angular, Ionic e Nodejs.
+- 💙 Interest: Golang, Dart, Html, Css, JavaScript, TypeScript, React, Angular, Ionic e Nodejs.
 
 ## Skills :nerd_face:
 <p align="center">
