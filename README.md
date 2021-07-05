@@ -4,7 +4,7 @@
 
 ### Abstract
 
-- 👨‍💻 Software Developer at **Lanlink Informática**.
+- 👨‍💻 Software Developer
 - 🌱 Technology student, always ready to face changes.
 - 💙 Interest: Golang, Dart, Html, Css, JavaScript, TypeScript, React, Angular, NextJS, Ionic, React Native e Nodejs.
 
